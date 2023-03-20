@@ -2,8 +2,7 @@
 
 ***Empower your success through innovative IT & data-driven solutions focusing on higher education and migration services.***
 
-![boson rect transparent](https://user-images.githubusercontent.com/19381768/226313787-4edd332f-5c78-479d-b9ad-88e5c7ad8813.png)
-
+<img src="https://user-images.githubusercontent.com/19381768/226313787-4edd332f-5c78-479d-b9ad-88e5c7ad8813.png" width="650" height="180">
 ---
 Boson Information Consultancy Pty Ltd is a professional consultancy firm that provides a wide range of services to clients in the fields of Information Technology and Data Analytics, as well as Higher Education and Migration. With a strong focus on delivering quality and innovative solutions, Boson Information Consultancy is dedicated to helping clients achieve their goals and succeed in a rapidly evolving and competitive market.
 
