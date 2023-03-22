@@ -1,6 +1,6 @@
 # Boson Information Consultancy
 
-***Empower your success through innovative IT & data-driven solutions focusing on higher education and migration services.***
+***Empowering innovation through data-driven solutions and knowledge-sharing.***
 
 <img src="https://user-images.githubusercontent.com/19381768/226313787-4edd332f-5c78-479d-b9ad-88e5c7ad8813.png" width="650" height="180">
 
