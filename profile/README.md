@@ -2,7 +2,8 @@
 
 ***Empowering innovation through data-driven solutions and knowledge-sharing.***
 
-<img src="https://user-images.githubusercontent.com/19381768/226313787-4edd332f-5c78-479d-b9ad-88e5c7ad8813.png" width="650" height="180">
+
+<img src="https://user-images.githubusercontent.com/19381768/226313787-4edd332f-5c78-479d-b9ad-88e5c7ad8813.png" width=70%>
 
 ---
 Welcome to the GitHub page of Boson Information Consultancy! We are a professional consultancy firm that specializes in providing a wide range of services to clients in the fields of Information Technology, Data Analytics, Data Science, Data Engineering, and related areas. Our team of experts has extensive experience in various IT and data-related fields, including data collection and analysis, cloud computing, machine learning, Artificial Intelligence, front-end development, web design, and more. We use the latest tools and technologies to deliver innovative and high-quality solutions that meet our clients' specific needs.
